@@ -12,4 +12,6 @@ def file_read(file_name):
     return data_from_file
 
 test_file = r'c:\Users\Сотрудник\YandexDisk-atovanchov\XBRL_DDS\module\operation_codes.csv'
+
+
 q = file_read(test_file)
